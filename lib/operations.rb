@@ -1,5 +1,5 @@
 def unsafe?(speed)
-  speed > 60 ?  "speed is greater than 60" : "speed is between 40 and 60"
+  answer ?  answer > 60 : 
 end
 
 
