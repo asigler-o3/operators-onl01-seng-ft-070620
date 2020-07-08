@@ -1,5 +1,5 @@
 def unsafe?(speed)
-unsafe? ? speed>60 : speed<40
+unsafe? speed>60 : speed<40
 binding.pry
 end
 
